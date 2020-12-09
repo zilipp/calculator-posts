@@ -1,7 +1,7 @@
 # Online calculator chatting room
 
 ## Online Demo(notes: http not https)
-https://calculator-chatting-room.herokuapp.com/
+http://calculator-chatting-room.herokuapp.com/
 
 
 ## Features
