@@ -2,3 +2,4 @@ channels
 channels-redis
 Django
 whitenoise
+dj_database_url
