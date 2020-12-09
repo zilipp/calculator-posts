@@ -48,7 +48,7 @@ sqlite3 - database
 
 
 ## Todos
-Didn't finish Django object serializers(user name column show's id instead of username)\
+Didn't finish Django object serializers(user name column shows user's id instead of username)\
 At first used docker-compose run locally, but didn't figure out how to deploy it on Heroku\
 Static files cannot be found when deployed on Heroku, just put in html file
 
