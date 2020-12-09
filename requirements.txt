@@ -1,0 +1,4 @@
+channels
+channels-redis
+Django
+whitenoise
