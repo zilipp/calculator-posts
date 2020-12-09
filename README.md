@@ -1,8 +1,8 @@
 # Online calculator chatting room
 
-## Online Demo
+## Online Demo(notes: http not https)
 http://calculator-posts.herokuapp.com/login/?next=/
-(notes: http not https)
+
 
 ## Features
 User Authentication \
@@ -39,6 +39,13 @@ Django - python web framework \
 Channels - project based on Django, which can handle WebSockets \
 Redis - database cashing \
 sqlite3 - database
+
+
+## ScreenShots
+![](images/login.png)
+![](images/signup.png)
+![](images/calculator.png)
+
 
 ## Todos
 Didn't finish Django object serializers(user name column show's id instead of username)\
